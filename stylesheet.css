@@ -1,0 +1,11 @@
+body {
+    position: fixed;
+    top: 0vh;
+    left: 0vw;
+}
+
+canvas {
+    position: fixed;
+    top: 0vh;
+    left: 0vw;
+}
